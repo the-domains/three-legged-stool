@@ -1,0 +1,28 @@
+name: three legged-stool
+favicon: null
+layout_spectrum: 0.3279975855257362
+typography_spectrum: 0.4174085969571024
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.31793760834261775
+  lightness: 0.6901816409081221
+  saturation: 0.5703250810038298
+  rhythmicContrast: 0.512751474045217
+purpose: []
